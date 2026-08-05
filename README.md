@@ -2,15 +2,14 @@
 
 ### Orchestrate your agents like a mob boss.
 
-A single-file Claude Code skill that gives a multi-agent orchestrator a spine: four gates before any agents get hired, decompose before hiring, one crew per territory, no receipt no table, arbitrate never average, kill dead branches early, and keep books that include the Boss.
+Here's the problem. Give an AI a big job and it hires a crew of sub-agents — then ruins everything by being polite. Everyone gets hired. Nobody gets fired. Every answer makes the final cut, and disagreements get smoothed into "both approaches have merit." You paid for a decision and got minestrone.
 
-Most matters never reach the table. The gates size every job by blast radius — small reversible decisions get a **hallway ruling**: no crews, no spend, one question max, ruled on the spot and written in the books. The full family sits only when something is irreversible, expensive to reverse, or genuinely contested.
+This skill makes the orchestrator run the job like a boss instead. Four questions before anyone gets hired — most jobs fail them and get ruled on the spot, in the hallway, for free. When a crew does go out: each agent gets one job and only the information that job needs. Every claim comes with a receipt — a file, a test result, a source — or it goes in the bin. One guy's entire purpose is attacking the plan before it starts. Another attacks the answer before you see it. Dead ends get killed early, disagreements get ruled on instead of averaged, and the books remember everyone's record — including the boss's, because the boss is usually the problem.
 
 > "More is lost by indecision than wrong decision."
 > — Tony Soprano, S4E13 "Whitecaps"
 
-> "The boss's scarcest resource isn't muscle. It's sit-downs."
-> — house rule, this protocol
+House rule: agents are cheap, your attention isn't. The machinery only comes out when a decision is big enough to hurt.
 
 ```
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   
@@ -50,15 +49,17 @@ Most matters never reach the table. The gates size every job by blast radius —
    @                                                                                                    @   
 ```
 
-The persona is compression, not decoration — "boss running a tight crew" carries the whole doctrine in five words. The parts of the metaphor that would make bad engineering are named and switched off inside the skill.
+Why the mob thing? Because it's a compression trick, not a costume. "Boss running a tight crew" tells the model everything in five words: small team, nobody sees the whole map, prove it or bin it, decide and move on. The parts of the metaphor that would make bad engineering — loyalty beating evidence, shooting the messenger — are named inside the skill and switched off.
 
 ## Install
 
-Copy `SKILL.md` into `~/.claude/skills/tony-protocol/` and invoke by name: *"tony, run the family on this."*
+Copy `SKILL.md` (and `state/`) into `~/.claude/skills/tony-protocol/`, then invoke by name: *"tony, run the family on this"* — or *"hallway ruling on X"* for the cheap version.
 
 ## What's in the box
 
 - `SKILL.md` — the whole protocol. One file, short enough to actually read.
-- `state/bodies.md` — where exiled roles go. Reads as a joke, works as documentation.
+- `state/bodies.md` — sacked roles, written up as obituaries. Reads as a joke, works as documentation.
+- `state/bad-carves.md` — every time the boss split a job wrong, so he doesn't do it twice.
+- `state/quotes.md` — eight lines from the show with episode receipts, because this repo doesn't do unverified quotes. (One turned out to be a popular misquote. It's in the commit history. We don't talk about it.)
 
 Bad news is fine. Bad paperwork is a problem for everybody.
