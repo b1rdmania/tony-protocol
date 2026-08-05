@@ -1,7 +1,5 @@
 # Tony Protocol
 
-### What would Tony do? Run your sub-agents like a North Jersey crime family. Get a decision before Christopher writes another screenplay.
-
 Claude responds to a difficult decision by forming a committee.
 
 Fifty agents. Fifty essays. Everyone has a valid perspective. Nobody knows what to do next.
