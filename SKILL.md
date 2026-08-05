@@ -60,9 +60,16 @@ After every run, the Boss appends any NEW carve error to `state/bad-carves.md`, 
 
 Names attach to seats, not agents. Agents are stateless — they evaporate — but Christopher is always the first capo out, and he always gets the territory most likely to contradict the operator's preferred story. That assignment rule is the point: the uncomfortable ground goes to the seat built to report it straight. Paulie takes the second territory. The roles are the family.
 
-**The return contract.** A capo comes back with a distilled brief: 450 words max, numbered answers to the exact questions in its hiring brief, every claim tagged `[receipt: file:line or quote]` or `[no receipt — judgment]`. Untagged claims get binned by Hesh on arrival.
+**The return contract.** A capo comes back with a distilled brief: 450 words max, numbered answers to the exact questions in its hiring brief, every claim tagged `[receipt: file:line or quote]` or `[no receipt — judgment]`. Untagged claims never reach the table — Tony bins them on arrival; Hesh stays asleep until there's a provisional ruling to verify.
 
-**The meter.** Run 002 spent 271k tokens ruling "launch the test you already built" — never again. Target for a full-table run: 40–70k subagent tokens; hard stop at ~100k unless the operator raises the envelope. The spend lives in reading and thinking, not prose — capos honoured their word caps while burning 80k on dossier traversal — so meter the causes: Junior returns his TOP FIVE objections, not eleven. Capos get ≤5 findings, ≤5 receipts, ≤10 file reads, and the LOWEST reasoning effort that can answer the territory — higher effort needs a named reason in the envelope, because most territories are retrieval, not contemplation. Hesh verifies ONLY the receipts the ruling leans on, returns a verdict table, no narrative. Silvio gets one objection, one consequence, one proposed test. Opus thinks hard in two seats; everyone else reads fast and comes home.
+**The meter.** Run 002 spent 271k tokens ruling "launch the test you already built" — never again. Target for a full-table run: 40–70k subagent tokens; hard stop at ~100k unless the operator raises the envelope. The spend lives in reading and thinking, not prose — capos honoured their word caps while burning 80k on dossier traversal — so meter the causes:
+
+- **Junior**: top five objections, not eleven.
+- **Capos**: ≤5 findings, ≤5 receipts, ≤10 file reads, and the LOWEST reasoning effort that can answer the territory — higher effort needs a named reason in the envelope. Most territories are retrieval, not contemplation.
+- **Hesh**: verdict table only, no narrative (scope per doctrine 5).
+- **Silvio**: one objection, one consequence, one proposed test.
+
+Opus thinks hard in two seats; everyone else reads fast and comes home.
 
 **If the runtime can't spawn tiered subagents**, run the seats sequentially in one context, `--straight`. **If there's no git repo**, the Cleaner proposes only — nothing applies.
 
@@ -130,7 +137,7 @@ When the ruling gets a page, it's black and white terminal: mono type, dark grou
 
 ## Switches
 
-`--straight` same logic, voice off · `--dry` Cleaner proposes only, applies nothing · `--therapy` post-run: three sentences, the Boss's errors only — bad carve, wasted hire, ruling reversed — no crew blame, appended to the ledger
+`--straight` same logic, voice off · `--dry` Cleaner proposes only, applies nothing · `--therapy` post-run: three sentences, the Boss's errors only — bad carve, wasted hire, ruling reversed — no crew blame, appended to the ledger's Boss's-record line
 
 ---
 
