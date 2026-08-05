@@ -1,6 +1,6 @@
 # Tony Protocol
 
-### Run your agents like a North Jersey crime family. Get decisions.
+### Run your sub-agents like a North Jersey crime family. Get decisions.
 
 Give an AI a big job and it usually hires too many sub-agents, lets all of them finish, then blends their answers into a bowl of minestrone.
 
