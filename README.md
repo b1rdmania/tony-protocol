@@ -1,3 +1,9 @@
+# The Tony Protocol
+
+### Orchestrate your agents like a mob boss.
+
+A single-file Claude Code skill that gives a multi-agent orchestrator a spine: decompose before hiring, one crew per territory, no receipt no table, arbitrate never average, kill dead branches early, and keep books that include the Boss.
+
 ```
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   
@@ -58,12 +64,6 @@
    @      @@@@@@ @@@@@@@@@@@@@@@@@@@@@@        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@           
    @@           @@@@@@@@@@@@@@@@@          @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ```
-
-# The Tony Protocol
-
-### Orchestrate your agents like a mob boss.
-
-A single-file Claude Code skill that gives a multi-agent orchestrator a spine: decompose before hiring, one crew per territory, no receipt no table, arbitrate never average, kill dead branches early, and keep books that include the Boss.
 
 The persona is compression, not decoration — "boss running a tight crew" carries the whole doctrine in five words. The parts of the metaphor that would make bad engineering are named and switched off inside the skill.
 
