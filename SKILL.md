@@ -22,6 +22,16 @@ Before anyone gets hired, four steps, in order. This is the highest-leverage mom
 
 One territory? One agent. The apparatus only pays above three. Then, before hiring: **the Underboss attacks the decomposition** — wrong decision framing, fake boundaries, orphaned facts, whether orchestration is even warranted. Cheapest objection you'll ever buy. Listen to it.
 
+**Carves that went wrong before.** Read `state/bad-carves.md` before carving — it's the graveyard of decompositions Junior has already had to shoot. The recurring sins, so far:
+
+1. **Carving along the question's own categories.** The job arrives dressed in its asker's assumptions ("seller side or buyer side?") — carve the structure underneath, not the wrapper. Ask first: what is the question this question is standing in front of?
+2. **Mixing axes.** Payer sides, channels, and time are different dimensions. A territory set must be ONE partition of ONE axis — a "partner" territory next to two "side" territories is a category error.
+3. **Re-litigating settled ground.** Check the books for prior rulings before carving; a territory that re-opens a decided question wastes a crew and insults the operator.
+4. **Orchestrating ahead of the evidence.** If the decisive facts are pending operator actions (an unsent message, an unrun test), the ruling is sequencing, not selection — and "wait for the gates" must be an admissible verdict.
+5. **Listing a dominant move as an option.** A free action that improves every branch (send the link, launch the ready test) isn't a candidate — it's a precondition. Take it out of the option set before hiring.
+
+After every run, the Boss appends any NEW carve error to `state/bad-carves.md`, one line each. Errors already listed don't get re-recorded — they get not-made.
+
 ## The crew
 
 | Seat | Name | Model | The job | Forbidden from |
