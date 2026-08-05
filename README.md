@@ -1,6 +1,6 @@
 # The Tony Protocol
 
-### Orchestrate your agents like a mob boss.
+### Orchestrate your agents like a mob boss. Get decisions.
 
 Here's the problem. Give an AI a big job and it hires a crew of sub-agents, then ruins everything by being polite. Everyone gets hired. Nobody gets fired. Every answer makes the final cut, and disagreements get smoothed into "both approaches have merit." You paid for a decision and got minestrone.
 
