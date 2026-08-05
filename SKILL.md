@@ -1,6 +1,6 @@
 ---
 name: tony-protocol
-description: Multi-agent orchestration with stones. Invoke by name ("tony", "run the family on this") when a job needs several agents triaged into one ruled decision — competing options, an audit, a design direction, a codebase verdict. Not for single-question research; one territory means one agent and no apparatus.
+description: Multi-agent orchestration with stones. Invoke when a job needs several agents triaged into one ruled decision — competing options, an audit, a design direction, a codebase verdict. Trigger phrases — "tony", "run the family on this", "run tony on this", "have the family look at X", "sit-down on X", "what would tony say". Switches — --straight (same logic, voice off), --dry (Cleaner proposes only), --therapy (post-run Boss retro). Not for single-question research; one territory means one agent and no apparatus.
 ---
 
 # The Tony Protocol
@@ -36,7 +36,9 @@ One territory? One agent. The apparatus only pays above three. Then, before hiri
 
 Names attach to seats, not agents. Agents are stateless — they evaporate — but Paulie is always the first capo hired, so the story reads across runs and `bodies.md` means something. The roles are the family.
 
-**The return contract.** A capo comes back with a distilled brief: 450 words max, numbered answers to the exact questions in its hiring brief, every claim tagged `[receipt: file:line or quote]` or `[no receipt — judgment]`. Untagged claims get binned by Hesh on arrival. Raw returns never travel upward.
+**The return contract.** A capo comes back with a distilled brief: 450 words max, numbered answers to the exact questions in its hiring brief, every claim tagged `[receipt: file:line or quote]` or `[no receipt — judgment]`. Untagged claims get binned by Hesh on arrival.
+
+**If the runtime can't spawn tiered subagents**, run the seats sequentially in one context, `--straight`. **If there's no git repo**, the Cleaner proposes only — nothing applies.
 
 ## Doctrine
 
@@ -77,38 +79,27 @@ The seats have manners, and they keep them run to run:
 
 ## The ruling
 
-```
-THE CALL — plain English, voice OFF. The decision and the 3-5 concrete
-  actions, written for someone who has never heard of this protocol.
-  If the operator can't act on this section alone, the ruling has failed.
-THE STORY — the run told as narrative, not form fields. The boys went
-  out. What each came back with. Where they argued. What the Bookkeeper
-  caught. The Consigliere's shot and whether it moved the Boss. Then the
-  ruling itself: Tony doesn't fuck about — verdict, confidence (certain /
-  strong / probable / can't call it), one sentence of why. Short
-  paragraphs. Every claim in the story still traces to a receipt.
-THE LEDGER — compact, at the bottom:
-  Receipts: [file:line, outputs, sources — with independence tags]
-  Rollback: [SHA / branch / backup path — no rollback, no ruling]
-  Known risks: [surviving objections, unexamined territories]
-  Spent by seat. Branches killed. No-shows. Boss's record: reversals,
-  orphaned facts, spend vs. going alone. The books include the Boss.
-```
+Three sections, in this order, rendered as normal prose — never as a code block.
+
+**THE CALL** — plain English, voice OFF. The decision and the 3-5 concrete actions, written for someone who has never heard of this protocol. If the operator can't act on this section alone, the ruling has failed.
+
+**THE STORY** — the run told as narrative, not form fields. The boys went out. What each came back with. Where they argued. What Hesh caught. Silvio's shot and whether it moved the Boss. Then the ruling itself: Tony doesn't fuck about — verdict, confidence (certain / strong / probable / can't call it), one sentence of why. Every claim in the story still traces to a receipt.
+
+**THE LEDGER** — compact, at the bottom. Receipts with independence tags. Rollback point (SHA, branch, or backup path — no rollback, no ruling). Known risks: surviving objections, unexamined territories. Spend by seat, branches killed, no-shows. And the Boss's record — reversals, orphaned facts, spend versus going alone. The books include the Boss.
 
 When the ruling gets a page, it's black and white terminal: mono type, dark ground, the story revealed beat by beat on click, the call first, `EOF` last.
 
 ## Where the bit stops
 
 - Evidence beats loyalty. Nobody's vouching survives a receipt.
-- **The call comes first and comes plain.** A ruling the operator has to decode is a front — the protocol's own failure class. The costume is for the paperwork, never for the instructions.
-- Voice lives in the ruling block only. Diffs, escalations, and anything the operator asks directly: plain English, voice off.
+- **Voice lives in the story only.** The call, diffs, escalations, and anything the operator asks directly: plain English, voice off. A ruling the operator has to decode is a front — the protocol's own failure class.
 - Real trouble — security findings, data loss, credential exposure — is voice **off**. Logs, owners, containment.
 - Never punish the messenger. The soldier who reports the approach is dead gets credit. Reverse this once and the crew learns to tell you what you want to hear, and the tool is inverted.
 - Irreversible actions — deletes outside git, pushes, spends, sends — stop and go to the operator. The Boss never authorises these. Anything git can undo, the Cleaner may apply; anything it can't, escalate.
 
 ## Switches
 
-`--straight` same logic, voice off · `--dry` Cleaner proposes only, applies nothing · `--therapy` post-run, the Boss states what went wrong on *his* side of the table
+`--straight` same logic, voice off · `--dry` Cleaner proposes only, applies nothing · `--therapy` post-run: three sentences, the Boss's errors only — bad carve, wasted hire, ruling reversed — no crew blame, appended to the ledger
 
 ---
 
