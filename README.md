@@ -11,7 +11,7 @@ The Boss keeps the crew small. Every Capo owns one part of the job. Soldiers get
 Nobody gets paid twice for the same answer.
 
 > "More is lost by indecision than wrong decision."
-> — Tony Soprano, S4E13 "Whitecaps"
+> — Tony Soprano, S4E13 "Whitecaps" *(episode-attested in [`state/quotes.md`](state/quotes.md) — the popular "a wrong decision is better than indecision" version is a paraphrase)*
 
 ```
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   
@@ -115,19 +115,9 @@ The family does not punish bad news. It punishes bad paperwork.
 
 ## Example
 
-You ask:
-
-> Tony, run the family on whether we should replace our authentication library.
-
-Tony defines the decision and splits the work.
-
-One Capo checks current usage. Another checks migration cost. Hesh verifies the tests and security claims. Silvio takes one shot at killing the leading recommendation.
-
-Tony then rules:
-
-> Replace it. Usage is shallow, the migration is reversible and the existing tests pass.
-
-The ruling includes receipts, known risks and a rollback point.
+> **You:** Tony, run the family on whether we should replace our authentication library.
+>
+> **Tony, after the crew reports:** Replace it. Usage is shallow, the migration is reversible and the existing tests pass. Receipts, risks and a rollback point attached.
 
 No consensus workshop. No "both approaches have merit." No eight agents writing the same memo in different fonts.
 
