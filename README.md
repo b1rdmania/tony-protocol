@@ -1,17 +1,19 @@
 # Tony Protocol
 
-### Run your sub-agents like a North Jersey crime family. Get decisions.
+### Run your sub-agents like a North Jersey crime family.
 
-Give an AI a big job and it usually hires too many sub-agents, lets all of them finish, then blends their answers into a bowl of minestrone.
+Claude responds to a difficult decision by forming a committee.
 
-Tony Protocol does the opposite.
+Fifty agents. Fifty essays. Everyone has a valid perspective. Nobody knows what to do next.
 
-Junior attacks the plan. Christopher and the Capos own their territories. Soldiers bring receipts. Silvio gets one shot at the answer. Tony makes the call.
+Tony Protocol introduces a more effective management structure:
 
-Nobody gets paid twice for the same answer.
+**Organised crime.**
 
-> "More is lost by indecision than wrong decision."
-> — Tony Soprano, S4E13 "Whitecaps" *(episode-attested in [`state/quotes.md`](state/quotes.md) — the popular "a wrong decision is better than indecision" version is a paraphrase)*
+Keep the crew small. Give everyone one job. Demand receipts. Dead branches take a drive to the Pine Barrens. Tony makes the call.
+
+> Claude: "Both approaches have merit."
+> Tony: "Then one of them came back light."
 
 ```
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   
@@ -51,88 +53,43 @@ Nobody gets paid twice for the same answer.
    @                                                                                                    @   
 ```
 
-## When to call Tony
+## The family
 
-Use it when you need a decision, not just research.
+**Junior** attacks the plan before anyone gets hired.
 
-Good jobs:
+**Christopher** gets the dangerous territory and brings back the news you were hoping not to hear.
 
-* choose between technical approaches
-* audit a codebase
-* settle a design direction
-* compare business options
-* investigate a problem with several distinct parts
+**Paulie** gets one narrow job. He may return with twelve unrelated findings.
 
-Small, reversible decisions get handled in the hallway. No crew, no ceremony, no token bonfire.
+**Hesh** checks the receipts. No receipt, no table.
 
-## How the family works
+**Silvio** gets one shot at killing the leading answer.
 
-Before anyone gets hired, Tony asks:
+**Tony** rules.
 
-1. What decision are we making?
-2. What facts would settle it?
-3. Can one agent handle it?
-4. What happens if we get it wrong?
-
-If the job needs a crew, it gets divided into territories.
-
-| Seat                      | Job                                                   |
-| ------------------------- | ----------------------------------------------------- |
-| **Tony, Boss**            | Splits the job, assigns the crew and makes the ruling |
-| **Junior, Underboss**     | Attacks the plan before anyone gets hired             |
-| **Christopher, lead Capo**| First out. Gets the highest-risk territory and brings back the worst news unsoftened |
-| **Paulie, second Capo**   | Narrower and literal, receipts immaculate             |
-| **Soldiers**              | Carry out narrow tasks and bring back evidence        |
-| **Hesh, Bookkeeper**      | Checks the load-bearing receipts and keeps the record |
-| **Silvio, Consigliere**   | Attacks the leading answer before Tony rules          |
-| **Furio, Cleaner**        | Prepares or applies the approved change               |
-
-The assignment rule matters more than the names: the uncertain or uncomfortable territory always goes to Christopher, the seat most likely to challenge the story you were hoping to hear.
-
-The Boss does not do the work. The moment Tony starts researching, the whole thing is one agent in a tracksuit.
+The Boss does not research. The moment Tony starts doing the work himself, this is one agent in a tracksuit.
 
 ## House rules
 
-**Every new agent pays the vig.**
-It must return something the existing crew cannot.
-
-**No receipt, no table.**
-Important claims need a file, test result, command output or source.
-
-**Five guys repeating one informant is still one informant.**
-Agreement only counts when the evidence is independent.
-
-**Dead branches go to the Pine Barrens.**
-When the answer stops moving, the work stops.
-
-**Tony rules. He does not average.**
-When Capos disagree, the better-supported answer wins.
-
-**"Can't call it" is allowed.**
-Fake certainty is worse than no ruling.
-
-**The books include the Boss.**
-Bad decomposition, wasted hires and reversed decisions all go on Tony's record.
+* Every new agent pays the vig.
+* Nobody gets paid twice for the same answer.
+* Five guys repeating one informant is still one informant.
+* Unsupported claims get fitted for concrete shoes.
+* Dead work does not finish out its token budget.
+* "Can't call it" beats making something up.
+* The books include the Boss.
 
 The family does not punish bad news. It punishes bad paperwork.
 
-## Example
-
-> **You:** Tony, run the family on whether we should replace our authentication library.
->
-> **Tony, after the crew reports:** Replace it. Usage is shallow, the migration is reversible and the existing tests pass. Receipts, risks and a rollback point attached.
-
-No consensus workshop. No "both approaches have merit." No eight agents writing the same memo in different fonts.
-
 ## Install
 
-Copy the repository into:
+Copy the repository to:
 
 ```text
 ~/.claude/skills/tony-protocol/
 ```
 
-Then invoke it with:
+Then ask:
 
 ```text
 Tony, run the family on this.
@@ -146,23 +103,12 @@ Give me a hallway ruling on this.
 
 Options:
 
-* `--straight` — same system, voice off
-* `--dry` — propose changes without applying them
-* `--therapy` — record the Boss's mistakes after the run
+* `--straight` — same protocol, no Mafia voice
+* `--dry` — nobody touches anything
+* `--therapy` — Tony discusses his own mistakes
 
-## What's in the box
+The full operation is in [`SKILL.md`](./SKILL.md).
 
-* `SKILL.md` — the whole protocol. One file, short enough to actually read.
-* `state/bodies.md` — sacked roles, written up as obituaries. Reads as a joke, works as documentation.
-* `state/bad-carves.md` — every time the boss split a job wrong, so he doesn't do it twice.
-* `state/quotes.md` — a few short lines from the show with episode receipts, because this repo doesn't do unverified quotes. (One turned out to be a popular misquote. It's in the commit history. We don't talk about it.)
+---
 
-## Why the Mafia theme?
-
-Because "Boss running a tight crew" carries the whole operating model.
-
-Small team. Clear territories. Limited information. Verified receipts. One final decision.
-
-The metaphor stops where it would make the system worse. Loyalty never beats evidence. Nobody shoots the messenger. Security and data-loss problems are handled without the bit.
-
-This thing of ours is mostly project management with better tailoring.
+Bring receipts. Hesh is asking.
