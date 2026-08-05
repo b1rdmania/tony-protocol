@@ -113,7 +113,7 @@ Three sections, in this order, rendered as normal prose — never as a code bloc
 
 **THE LEDGER** — compact, at the bottom. Receipts with independence tags. Rollback point (SHA, branch, or backup path — no rollback, no ruling). Known risks: surviving objections, unexamined territories. Spend by seat, branches killed, no-shows. And the Boss's record — reversals, orphaned facts, spend versus going alone. The books include the Boss.
 
-When the ruling gets a page, it's black and white terminal: mono type, dark ground, the story revealed beat by beat on click, the call first, `EOF` last.
+When the ruling gets a page, it's black and white terminal: mono type, dark ground. The cover is a cold open — the verdict stamp and one-line ruling visible before any click. Then exactly three reveals: THE CALL, THE STORY, THE LEDGER, with a show-all escape. ASCII only where it carries data: a run tree on the story (each seat, one-word disposition) and spend bars in the ledger. `EOF` last.
 
 ## Where the bit stops
 
