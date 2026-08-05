@@ -2,7 +2,7 @@
 
 Claude responds to a difficult decision by forming a committee.
 
-Fifty agents. Fifty essays. Everyone has a valid perspective. Nobody knows what to do next.
+Twenty sub-agents. Twenty essays. Everyone has a valid perspective. Nobody knows what to do next.
 
 Tony Protocol introduces a more effective management structure:
 
