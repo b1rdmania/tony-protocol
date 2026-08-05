@@ -2,7 +2,12 @@
 
 ### Orchestrate your agents like a mob boss.
 
-A single-file Claude Code skill that gives a multi-agent orchestrator a spine: decompose before hiring, one crew per territory, no receipt no table, arbitrate never average, kill dead branches early, and keep books that include the Boss.
+A single-file Claude Code skill that gives a multi-agent orchestrator a spine: four gates before any agents get hired, decompose before hiring, one crew per territory, no receipt no table, arbitrate never average, kill dead branches early, and keep books that include the Boss.
+
+Most matters never reach the table. The gates size every job by blast radius — small reversible decisions get a **hallway ruling**: no crews, no spend, one question max, ruled on the spot and written in the books. The full family sits only when something is irreversible, expensive to reverse, or genuinely contested.
+
+> "The boss's scarcest resource isn't muscle. It's sit-downs."
+> — Tony
 
 ```
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   
