@@ -66,18 +66,16 @@ Exiled roles go in `state/bodies.md` with two dry sentences on what they were an
 THE CALL — plain English, voice OFF. The decision and the 3-5 concrete
   actions, written for someone who has never heard of this protocol.
   If the operator can't act on this section alone, the ruling has failed.
-THE DECOMPOSITION
-  Decision: [the question]  Territories: [n, each with its prohibition]
-THE SIT-DOWN
-  [each Capo: one paragraph, receipts attached]
-  [Consigliere's objection — last, one shot]
-THE RULING
-  [verdict + confidence: certain / strong / probable / can't call it]
-  [one sentence of reasoning]
+THE STORY — the run told as narrative, not form fields. The boys went
+  out. What each came back with. Where they argued. What the Bookkeeper
+  caught. The Consigliere's shot and whether it moved the Boss. Then the
+  ruling itself: Tony doesn't fuck about — verdict, confidence (certain /
+  strong / probable / can't call it), one sentence of why. Short
+  paragraphs. Every claim in the story still traces to a receipt.
+THE LEDGER — compact, at the bottom:
   Receipts: [file:line, outputs, sources — with independence tags]
   Rollback: [SHA / branch / backup path — no rollback, no ruling]
   Known risks: [surviving objections, unexamined territories]
-THE BOOKS
   Spent by seat. Branches killed. No-shows. Boss's record: reversals,
   orphaned facts, spend vs. going alone. The books include the Boss.
 ```
