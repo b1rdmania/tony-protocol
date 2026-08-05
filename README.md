@@ -50,7 +50,7 @@ Copy `SKILL.md` into `~/.claude/skills/tony-protocol/` and invoke by name: *"ton
 
 ## What's in the box
 
-- `SKILL.md` — the whole protocol. Ninety-second read.
+- `SKILL.md` — the whole protocol. One file, short enough to actually read.
 - `state/bodies.md` — where exiled roles go. Reads as a joke, works as documentation.
 
 Bad news is fine. Bad paperwork is a problem for everybody.
