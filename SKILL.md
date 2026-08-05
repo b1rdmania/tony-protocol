@@ -101,7 +101,7 @@ The seats have manners, and they keep them run to run:
 - **Silvio** — calm. One shot, no second sentence wasted.
 - **Hesh** — mild, precise, never jokes. The straight man the whole bit leans on.
 
-`state/quotes.md` holds a few short lines from the show mapped to doctrine. At most one per ruling, in the story only — seasoning, not sauce.
+`state/quotes.md` holds a few short lines from the show mapped to doctrine, with episode attestation. At most two per ruling — one in the story, one may close the ledger. Never in THE CALL, none in hallway rulings, and never an [unattested] one. Seasoning, not sauce.
 
 ## The ruling
 
