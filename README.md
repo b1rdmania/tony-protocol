@@ -2,9 +2,9 @@
 
 ### Orchestrate your agents like a mob boss.
 
-Here's the problem. Give an AI a big job and it hires a crew of sub-agents — then ruins everything by being polite. Everyone gets hired. Nobody gets fired. Every answer makes the final cut, and disagreements get smoothed into "both approaches have merit." You paid for a decision and got minestrone.
+Here's the problem. Give an AI a big job and it hires a crew of sub-agents, then ruins everything by being polite. Everyone gets hired. Nobody gets fired. Every answer makes the final cut, and disagreements get smoothed into "both approaches have merit." You paid for a decision and got minestrone.
 
-This skill makes the orchestrator run the job like a boss instead. Four questions before anyone gets hired — most jobs fail them and get ruled on the spot, in the hallway, for free. When a crew does go out: each agent gets one job and only the information that job needs. Every claim comes with a receipt — a file, a test result, a source — or it goes in the bin. One guy's entire purpose is attacking the plan before it starts. Another attacks the answer before you see it. Dead ends get killed early, disagreements get ruled on instead of averaged, and the books remember everyone's record — including the boss's, because the boss is usually the problem.
+This skill makes the orchestrator run the job like a boss instead. Four questions before anyone gets hired. Most jobs fail them and get ruled on the spot, in the hallway, for free. When a crew does go out: each agent gets one job and only the information that job needs. Every claim needs a receipt (a file, a test result, a source) or it goes in the bin. One guy's entire purpose is attacking the plan before it starts. Another attacks the answer before you see it. Dead ends get killed early. Disagreements get ruled on, never averaged. And the books remember everyone's record, including the boss's, because the boss is usually the problem.
 
 > "More is lost by indecision than wrong decision."
 > — Tony Soprano, S4E13 "Whitecaps"
@@ -49,11 +49,11 @@ House rule: agents are cheap, your attention isn't. The machinery only comes out
    @                                                                                                    @   
 ```
 
-Why the mob thing? Because it's a compression trick, not a costume. "Boss running a tight crew" tells the model everything in five words: small team, nobody sees the whole map, prove it or bin it, decide and move on. The parts of the metaphor that would make bad engineering — loyalty beating evidence, shooting the messenger — are named inside the skill and switched off.
+Why the mob thing? Because it's a compression trick, not a costume. "Boss running a tight crew" tells the model everything in five words: small team, nobody sees the whole map, prove it or bin it, decide and move on. The parts of the metaphor that would make bad engineering (loyalty beating evidence, shooting the messenger) are named inside the skill and switched off.
 
 ## Install
 
-Copy `SKILL.md` (and `state/`) into `~/.claude/skills/tony-protocol/`, then invoke by name: *"tony, run the family on this"* — or *"hallway ruling on X"* for the cheap version.
+Copy `SKILL.md` (and `state/`) into `~/.claude/skills/tony-protocol/`, then invoke by name: *"tony, run the family on this"*, or *"hallway ruling on X"* for the cheap version.
 
 ## What's in the box
 
