@@ -6,8 +6,11 @@ A single-file Claude Code skill that gives a multi-agent orchestrator a spine: f
 
 Most matters never reach the table. The gates size every job by blast radius — small reversible decisions get a **hallway ruling**: no crews, no spend, one question max, ruled on the spot and written in the books. The full family sits only when something is irreversible, expensive to reverse, or genuinely contested.
 
+> "A wrong decision is better than indecision."
+> — Tony Soprano
+
 > "The boss's scarcest resource isn't muscle. It's sit-downs."
-> — Tony
+> — house rule, this protocol
 
 ```
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   
