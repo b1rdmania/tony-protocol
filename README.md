@@ -6,7 +6,7 @@ Give an AI a big job and it usually hires too many sub-agents, lets all of them 
 
 Tony Protocol does the opposite.
 
-The Boss keeps the crew small. Every Capo owns one part of the job. Soldiers get one target and only the information they need. Hesh checks the receipts. Silvio attacks the leading answer. Tony makes the call.
+Junior attacks the plan. Christopher and the Capos own their territories. Soldiers bring receipts. Silvio gets one shot at the answer. Tony makes the call.
 
 Nobody gets paid twice for the same answer.
 
@@ -76,15 +76,18 @@ Before anyone gets hired, Tony asks:
 
 If the job needs a crew, it gets divided into territories.
 
-| Seat                    | Job                                                   |
-| ----------------------- | ----------------------------------------------------- |
-| **Tony, Boss**          | Splits the job, assigns the crew and makes the ruling |
-| **Junior, Underboss**   | Attacks the plan before anyone gets hired             |
-| **Capos**               | Own one territory each                                |
-| **Soldiers**            | Carry out narrow tasks and bring back evidence        |
-| **Hesh, Bookkeeper**    | Checks receipts and keeps the record                  |
-| **Silvio, Consigliere** | Attacks the leading answer before Tony rules          |
-| **Furio, Cleaner**      | Prepares or applies the approved change               |
+| Seat                      | Job                                                   |
+| ------------------------- | ----------------------------------------------------- |
+| **Tony, Boss**            | Splits the job, assigns the crew and makes the ruling |
+| **Junior, Underboss**     | Attacks the plan before anyone gets hired             |
+| **Christopher, lead Capo**| First out. Gets the highest-risk territory and brings back the worst news unsoftened |
+| **Paulie, second Capo**   | Narrower and literal, receipts immaculate             |
+| **Soldiers**              | Carry out narrow tasks and bring back evidence        |
+| **Hesh, Bookkeeper**      | Checks the load-bearing receipts and keeps the record |
+| **Silvio, Consigliere**   | Attacks the leading answer before Tony rules          |
+| **Furio, Cleaner**        | Prepares or applies the approved change               |
+
+The assignment rule matters more than the names: the uncertain or uncomfortable territory always goes to Christopher, the seat most likely to challenge the story you were hoping to hear.
 
 The Boss does not do the work. The moment Tony starts researching, the whole thing is one agent in a tracksuit.
 
