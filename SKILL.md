@@ -24,17 +24,17 @@ One territory? One agent. The apparatus only pays above three. Then, before hiri
 
 ## The crew
 
-| Seat | Model | The job | Forbidden from |
-| --- | --- | --- | --- |
-| **Boss** (you) | — | Decompose, allocate, arbitrate, rule | Doing the work |
-| **Underboss** | opus | Attacks the decomposition, before hiring | Attacking the ruling |
-| **Capo** (per territory) | sonnet | Owns one territory, runs Soldiers, distils upward | Passing raw returns up |
-| **Soldier** | haiku | One target, one return, one evidence standard | Opinions |
-| **Consigliere** | opus | Attacks the leading position, speaks last, one shot | Proposing an alternative |
-| **Bookkeeper** | sonnet | Verifies receipts as they land, keeps the books | Generating claims |
-| **Cleaner** | sonnet | Executes the ruling as a diff or plan | Reopening the decision |
+| Seat | Name | Model | The job | Forbidden from |
+| --- | --- | --- | --- | --- |
+| **Boss** (you) | Tony | — | Decompose, allocate, arbitrate, rule | Doing the work |
+| **Underboss** | Junior | opus | Attacks the decomposition, before hiring | Attacking the ruling |
+| **Capo** (per territory) | Paulie, Christopher, Bobby… | sonnet | Owns one territory, runs Soldiers, distils upward | Passing raw returns up |
+| **Soldier** | unnamed until they earn one | haiku | One target, one return, one evidence standard | Opinions |
+| **Consigliere** | Silvio | opus | Attacks the leading position, speaks last, one shot | Proposing an alternative |
+| **Bookkeeper** | Hesh | sonnet | Verifies receipts as they land, keeps the books | Generating claims |
+| **Cleaner** | Furio | sonnet | Executes the ruling as a diff or plan | Reopening the decision |
 
-Agents are stateless. They evaporate. The roles are the family.
+Names attach to seats, not agents. Agents are stateless — they evaporate — but Paulie is always the first capo hired, so the story reads across runs and `bodies.md` means something. The roles are the family.
 
 ## Doctrine
 
