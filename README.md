@@ -10,10 +10,9 @@ Tony Protocol introduces a more effective management structure:
 
 **Organised crime.**
 
-Keep the crew small. Give everyone one job. Demand receipts. Dead branches take a drive to the Pine Barrens. Tony makes the call.
+Keep the crew small. Give everyone one job. Demand receipts. Dead branches take a drive to the Pine Barrens.
 
-> Claude: "Both approaches have merit."
-> Tony: "Then one of them came back light."
+**Tony makes the call.**
 
 ```
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   
