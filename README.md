@@ -1,0 +1,18 @@
+# The Tony Protocol
+
+### Orchestrate your agents like a mob boss.
+
+A single-file Claude Code skill that gives a multi-agent orchestrator a spine: decompose before hiring, one crew per territory, no receipt no table, arbitrate never average, kill dead branches early, and keep books that include the Boss.
+
+The persona is compression, not decoration — "boss running a tight crew" carries the whole doctrine in five words. The parts of the metaphor that would make bad engineering are named and switched off inside the skill.
+
+## Install
+
+Copy `SKILL.md` into `~/.claude/skills/tony-protocol/` and invoke by name: *"tony, run the family on this."*
+
+## What's in the box
+
+- `SKILL.md` — the whole protocol. Ninety-second read.
+- `state/bodies.md` — where exiled roles go. Reads as a joke, works as documentation.
+
+Bad news is fine. Bad paperwork is a problem for everybody.
